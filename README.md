@@ -1,7 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
 
-## HTML projects
-Repository with HTML projects from basic to advanced.
+## R projects
+Repository with R projects from basic to advanced.
 
-Documentation HTML - https://developer.mozilla.org/pt-BR/docs/Web/HTML
+Documentation R - https://www.r-project.org/other-docs.html
