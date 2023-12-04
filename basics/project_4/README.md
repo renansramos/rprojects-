@@ -1,4 +1,4 @@
-e---
+---
 title: "Lesson 3: Cleaning data"
 output: html_document
 ---
