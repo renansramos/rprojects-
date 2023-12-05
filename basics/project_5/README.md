@@ -140,7 +140,6 @@ B: 45.0283
 C: 100.0011
 D: 104.0114
 
-Remember to select the correct answer to this question on the Coursera platform after you complete this activity.
 
 You were able to report to your boss what the average lead time before booking is, but now they want to know what the average lead time before booking is for just city hotels. They want to focus the promotion they're running by targeting major cities. 
 
