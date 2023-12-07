@@ -7,7 +7,7 @@ output: html_document
 
 In this activity, you’ll review a scenario, and use ggplot2 to quickly create data visualizations that allow you to explore your data and gain new insights. You will learn more about basic ggplot2 syntax and data visualization in R. 
 
-Throughout this activity, you will also have the opportunity to practice writing your own code by making changes to the code chunks yourself. If you encounter an error or get stuck, you can always check the Lesson2_GGPlot_Solutions .rmd file in the Solutions folder under Week 4 for the complete, correct code. 
+Throughout this activity, you will also have the opportunity to practice writing your own code by making changes to the code chunks yourself. 
 
 ## The Scenario
 
