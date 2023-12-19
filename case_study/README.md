@@ -44,8 +44,8 @@ Use o Roteiro de estudo de caso a seguir como um guia. Observação: Concluir es
 Roteiro do estudo de caso - Perguntar
 
 Perguntas de orientação
-    • Qual é o problema que você está tentando resolver?
-    • Como seus insights podem nortear as decisões de negócios?
+* Qual é o problema que você está tentando resolver?
+* Como seus insights podem nortear as decisões de negócios?
 
 Principais tarefas
     1. Identificar a tarefa de negócios
@@ -65,13 +65,13 @@ Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de c
 Roteiro do estudo de caso - Preparar
 
 Perguntas de orientação
-    • Onde seus dados estão localizados?
-    • Como os dados são organizados?
-    • Existem problemas com viés ou credibilidade nesses dados? Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte?
-    • Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade?
-    • Como você verificou a integridade dos dados?
-    • Como isso o ajuda a responder à sua pergunta?
-    • Há algum problema com os dados?
+* Onde seus dados estão localizados?
+* Como os dados são organizados?
+* Existem problemas com viés ou credibilidade nesses dados? Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte?
+* Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade?
+* Como você verificou a integridade dos dados?
+* Como isso o ajuda a responder à sua pergunta?
+* Há algum problema com os dados?
 
 Principais tarefas
     1. Fazer o download dos dados e armazená-los adequadamente.
@@ -88,11 +88,11 @@ Em seguida, processe seus dados para análise usando o seguinte roteiro do estud
 Roteiro do estudo de caso - Processar
 
 Perguntas de orientação
-    • Quais ferramentas você está escolhendo e por quê?
-    • Você garantiu a integridade dos seus dados?
-    • Que medidas foram tomadas para garantir que seus dados estejam limpos?
-    • Como você pode verificar se seus dados estão limpos e prontos para análise?
-    • Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?
+* Quais ferramentas você está escolhendo e por quê?
+* Você garantiu a integridade dos seus dados?
+* Que medidas foram tomadas para garantir que seus dados estejam limpos?
+* Como você pode verificar se seus dados estão limpos e prontos para análise?
+* Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?
 
 Principais tarefas
     1. Verificar os dados em busca de erros.
@@ -126,11 +126,11 @@ Agora que seus dados estão armazenados adequadamente e preparados para análise
 **Roteiro do estudo de caso - Analisar**
 
 Perguntas de orientação
-    • Como você deve organizar seus dados para realizar análises sobre eles?
-    • Seus dados foram formatados corretamente?
-    • Que surpresas você descobriu nos dados?
-    • Que tendências ou relações você encontrou nos dados?
-    • Como esses insights o ajudarão a responder às suas perguntas de negócios?
+* Como você deve organizar seus dados para realizar análises sobre eles?
+* Seus dados foram formatados corretamente?
+* Que surpresas você descobriu nos dados?
+* Que tendências ou relações você encontrou nos dados?
+* Como esses insights o ajudarão a responder às suas perguntas de negócios?
 
 Principais tarefas
     1. Agregar seus dados para que sejam úteis e acessíveis.
@@ -148,15 +148,15 @@ Abra seu aplicativo de planilhas e conclua as etapas a seguir:
     2. Limpe e transforme seus dados para se preparar para uma análise.
     3. Faça uma análise descritiva.
     4. Execute alguns cálculos em um arquivo para ter uma noção melhor do layout dos dados. Opções:
-        ◦ Calcule a média de duração_passeio
-        ◦ Calcule a duração_passeio máxima
-        ◦ Calcule o modo de dia_da_semana
+        * Calcule a média de duração_passeio
+        * Calcule a duração_passeio máxima
+        * Calcule o modo de dia_da_semana
     5. Crie uma tabela dinâmica para calcular e visualizar os dados rapidamente. Opções:
-        ◦ Calcule a média de duração_passeio para membros e passageiros casuais. Tente linhas = membro_casual; Valores = Média
+        * Calcule a média de duração_passeio para membros e passageiros casuais. Tente linhas = membro_casual; Valores = Média
 
 de duração_passeio.
-        ◦ Calcule a média de duração_passeio para usuários por dia_da_semana. Tente colunas = dia_da_semana; Linhas = membros_casuais; Valores = Média de duração_passeio.
-        ◦ Calcule o número de viagens para usuários por dia_da_semana adicionando Contagem de id_trajetos a Valores.
+        * Calcule a média de duração_passeio para usuários por dia_da_semana. Tente colunas = dia_da_semana; Linhas = membros_casuais; Valores = Média de duração_passeio.
+        * Calcule o número de viagens para usuários por dia_da_semana adicionando Contagem de id_trajetos a Valores.
     6. Abra outro arquivo e execute as mesmas etapas de análise descritiva. Explore as diferentes estações do ano para fazer algumas observações iniciais.
     7. Depois de passar algum tempo trabalhando com as planilhas individuais, mescle-as em uma visão referente ao ano inteiro. Faça isso com a ferramenta que escolhida para realizar sua análise final, seja uma planilha, um banco de dados e SQL ou RStudio.
     8. Exporte um arquivo de resumo para análise posterior.
@@ -185,12 +185,12 @@ Agora que você realizou sua análise e obteve insights sobre seus dados, crie v
 Roteiro do estudo de caso - Compartilhar
 
 Perguntas de orientação
-    • Você conseguiu responder à pergunta de como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de maneira diferente?
-    • Que história seus dados contam?
-    • Como suas descobertas se relacionam com sua pergunta original?
-    • Quem é seu público-alvo? Qual é a melhor maneira de se comunicar com esse público?
-    • A visualização de dados pode ajudá-lo a compartilhar suas descobertas?
-    • Sua apresentação é acessível ao seu público-alvo?
+* Você conseguiu responder à pergunta de como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de maneira diferente?
+* Que história seus dados contam?
+* Como suas descobertas se relacionam com sua pergunta original?
+* Quem é seu público-alvo? Qual é a melhor maneira de se comunicar com esse público?
+* A visualização de dados pode ajudá-lo a compartilhar suas descobertas?
+* Sua apresentação é acessível ao seu público-alvo?
 
 Principais tarefas
     1. Determinar a melhor maneira de compartilhar suas descobertas.
@@ -215,10 +215,10 @@ Agora que terminou de criar suas visualizações, aja de acordo com suas descobe
 Roteiro do estudo de caso - Agir
 
 Perguntas de orientação
-    • Qual é a sua conclusão final com base na sua análise?
-    • Como sua equipe e sua empresa podem aplicar seus insights?
-    • Que próximos passos você ou suas partes interessadas podem seguir com base em suas descobertas?
-    • Existem dados adicionais que você poderia usar para expandir suas descobertas?
+* Qual é a sua conclusão final com base na sua análise?
+* Como sua equipe e sua empresa podem aplicar seus insights?
+* Que próximos passos você ou suas partes interessadas podem seguir com base em suas descobertas?
+* Existem dados adicionais que você poderia usar para expandir suas descobertas?
 
 Principais tarefas
     1. Criar seu portfólio.
