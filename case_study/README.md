@@ -42,8 +42,11 @@ A Lily estabeleceu um objetivo claro: criar estratégias de marketing destinadas
 Use o Roteiro de estudo de caso a seguir como um guia. Observação: Concluir este estudo de caso em uma semana é uma meta adequada.
 
 |Roteiro do estudo de caso - Perguntar|
+|---------------------------------------------------------------|
 |Perguntas de orientação * Qual é o problema que você está tentando resolver? * Como seus insights podem nortear as decisões de negócios?|
+|---------------------------------------------------------------|
 |Principais tarefas 1. Identificar a tarefa de negócios 2. Considerar as principais partes interessadas|
+|---------------------------------------------------------------|
 |Entrega: Uma declaração clara da tarefa de negócios|
 
 
