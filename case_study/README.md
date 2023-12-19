@@ -48,7 +48,7 @@ Use o Roteiro de estudo de caso a seguir como um guia. Observação: Concluir es
 |Entrega: Uma declaração clara da tarefa de negócios|
 
 
-####  **Preparar**
+**Preparar**
 ---------------------------------------------------------------
 Você usará os dados históricos de trajetos da Cyclistic para analisar e identificar tendências. Faça o download dos dados de trajetos da Cyclistic dos últimos 12 meses  aqui. (Observação: os conjuntos de dados têm um nome diferente porque a Cyclistic é uma empresa fictícia. Para os propósitos deste estudo de caso, os conjuntos de dados são adequados e permitem que você responda às perguntas de negócios. Os dados foram disponibilizados pela Motivate International Inc. sob esta licença). Esses são dados públicos que podem ser usados para explorar como os diferentes tipos de clientes estão utilizando as bicicletas da Cyclistic. Entretanto, observe que problemas de privacidade de dados o proíbem de usar as informações de identificação pessoal dos passageiros. Ou seja, você não poderá conectar compras de passes a números de cartão de crédito para determinar se passageiros casuais moram na área de serviço da Cyclistic ou se compraram vários passes únicos.
 
@@ -61,7 +61,7 @@ Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de c
 |Principais tarefas 1. Fazer o download dos dados e armazená-los adequadamente,  2. Identificar como estão organizados, 3. Classificar e filtrar os dados, 4. Determinar a credibilidade dos dados.|
 |Entrega: Uma descrição de todas as fontes de dados usadas|
 
-####  **Processar**
+**Processar**
 Em seguida, processe seus dados para análise usando o seguinte roteiro do estudo de caso como guia:
 
 |Roteiro do estudo de caso - Processar|
@@ -86,7 +86,7 @@ b. Abra cada arquivo .CSV no Planilhas Google e salve-o na subpasta adequada.
 
 Se desejar, continue trabalhando com os dados para se familiarizar melhor e talvez até identificar novas abordagens para responder às perguntas de negócios.
 
-####  **Analisar**
+**Analisar**
 ---------------------------------------------------------------
 Agora que seus dados estão armazenados adequadamente e preparados para análise, comece a colocá-los em prática. Use o Roteiro de estudo de caso a seguir como um guia:
 
@@ -133,7 +133,7 @@ Abra o RStudio e use este script para concluir as etapas a seguir:
 4. Faça uma análise descritiva.
 5. Exporte um arquivo de resumo para análise posterior.
 
-####  **Compartilhar**
+**Compartilhar**
 ---------------------------------------------------------------
 Agora que você realizou sua análise e obteve insights sobre seus dados, crie visualizações para compartilhar suas descobertas. Lily lembrou que eles devem ser sofisticados e polidos para se comunicar com eficiência com a equipe executiva. Use o Roteiro de estudo de caso a seguir como um guia:
 
@@ -150,7 +150,7 @@ Agora que você realizou sua análise e obteve insights sobre seus dados, crie v
 4. Garanta um significado claro por meio do uso adequado de elementos comuns, como títulos, subtítulos e rótulos.
 5. Filtre sua visualização de dados aplicando grande atenção aos detalhes.
 
-####  **Agir**
+**Agir**
 ---------------------------------------------------------------
 Agora que terminou de criar suas visualizações, aja de acordo com suas descobertas. Prepare as entregas que a Lily pediu para você criar, incluindo as três principais recomendações com base em sua análise. Use o Roteiro de estudo de caso a seguir como um guia:
 
