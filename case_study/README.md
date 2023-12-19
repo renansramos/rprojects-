@@ -67,7 +67,6 @@ Em seguida, processe seus dados para análise usando o seguinte roteiro do estud
 |Roteiro do estudo de caso - Processar|
 | --- |
 |Perguntas de orientação / Quais ferramentas você está escolhendo e por quê? / Você garantiu a integridade dos seus dados? / Que medidas foram tomadas para garantir que seus dados estejam limpos? / Como você pode verificar se seus dados estão limpos e prontos para análise? / Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?|
-
 |Principais tarefas: 1. Verificar os dados em busca de erros, 2. Escolher suas ferramentas, 3. Transformar os dados para que você possa trabalhar com eles de forma eficaz, 4. Documentar o processo de limpeza.|
 |Entrega: Documentação de qualquer limpeza ou manipulação de dados|
 
