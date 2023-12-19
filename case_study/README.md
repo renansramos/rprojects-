@@ -162,8 +162,8 @@ Agora que terminou de criar suas visualizações, aja de acordo com suas descobe
 |Entrega: Suas três principais recomendações com base em sua análise|
 
 **Siga as etapas a seguir:**
-    1. Se ainda não tem um, crie um portfólio online. (Use Como criar um portfólio interativo com o Google Sites ou Como desenvolver um portfólio com o Google Sites.)
-    2. Considere como você deseja apresentar seu estudo de caso em seu portfólio.
-    3. Carregue ou vincule as descobertas do estudo de caso ao seu portfólio.
-    4. Escreva um breve parágrafo descrevendo o estudo de caso, seu processo e suas descobertas.
-    5. Adicione o parágrafo para introduzir seu estudo de caso em seu portfólio.
+1. Se ainda não tem um, crie um portfólio online. (Use Como criar um portfólio interativo com o Google Sites ou Como desenvolver um portfólio com o Google Sites.)
+2. Considere como você deseja apresentar seu estudo de caso em seu portfólio.
+3. Carregue ou vincule as descobertas do estudo de caso ao seu portfólio.
+4. Escreva um breve parágrafo descrevendo o estudo de caso, seu processo e suas descobertas.
+5. Adicione o parágrafo para introduzir seu estudo de caso em seu portfólio.
