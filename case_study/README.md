@@ -7,9 +7,9 @@ Você é um analista de dados júnior que trabalha na equipe de analistas de mar
 
 ####  **Personagens e equipes**
 * **Cyclistic**: Um programa de compartilhamento de bicicletas que conta com mais de 5.800 bicicletas e 600 estações de compartilhamento. A Cyclistic se diferencia por também oferecer bicicletas reclináveis, triciclos manuais e bicicletas de carga, tornando o compartilhamento de bicicletas mais inclusivo para pessoas com deficiência e ciclistas que não podem usar uma bicicleta padrão de duas rodas. A maioria dos ciclistas opta por bicicletas tradicionais; cerca de 8% dos motociclistas usam as opções assistivas. Os usuários da Cyclistic são mais propensos a pedalar por lazer, mas cerca de 30% utilizam as bicicletas para se deslocarem ao trabalho diariamente.
-* Lily Moreno: Diretora de marketing e sua gerente. Lily é responsável pelo desenvolvimento de campanhas e iniciativas de promoção do programa de compartilhamento de bicicletas. As campanhas podem incluir e-mail, mídias sociais e outros canais.
-* Equipe de análise de marketing da Cyclistic: Uma equipe de analistas de dados responsáveis por coletar, analisar e relatar dados que ajudam a orientar a estratégia de marketing da Cyclistic. Você se juntou a essa equipe há seis meses e tem estado ocupado aprendendo sobre a missão e os objetivos de negócios da Cyclistic – e como você, como analista de dados júnior, também pode ajudar a Cyclistic a alcançá-los.
-* Equipe executiva da Cyclistic: A equipe executiva notoriamente detalhista decidirá se aprova o programa de marketing recomendado.
+* **Lily Moreno**: Diretora de marketing e sua gerente. Lily é responsável pelo desenvolvimento de campanhas e iniciativas de promoção do programa de compartilhamento de bicicletas. As campanhas podem incluir e-mail, mídias sociais e outros canais.
+* **Equipe de análise de marketing da Cyclistic**: Uma equipe de analistas de dados responsáveis por coletar, analisar e relatar dados que ajudam a orientar a estratégia de marketing da Cyclistic. Você se juntou a essa equipe há seis meses e tem estado ocupado aprendendo sobre a missão e os objetivos de negócios da Cyclistic – e como você, como analista de dados júnior, também pode ajudar a Cyclistic a alcançá-los.
+* **Equipe executiva da Cyclistic**: A equipe executiva notoriamente detalhista decidirá se aprova o programa de marketing recomendado.
 
 ####  **Sobre a empresa**
 Em 2016, a Cyclistic lançou uma oferta bem-sucedida de compartilhamento de bicicletas. Desde então, o programa cresceu para uma frota de 5.824 bicicletas com rastreamento geográfico e bloqueio dentro de uma rede de 692 estações em Chicago. As bicicletas podem ser desbloqueadas em uma estação e devolvidas em qualquer outra estação do sistema a qualquer momento.
@@ -43,8 +43,8 @@ Use o Roteiro de estudo de caso a seguir como um guia. Observação: Concluir es
 
 |Roteiro do estudo de caso - Perguntar|
 | --- |
-|Perguntas de orientação: Qual é o problema que você está tentando resolver?  Como seus insights podem nortear as decisões de negócios?|
-|Principais tarefas: 1. Identificar a tarefa de negócios 2. Considerar as principais partes interessadas|
+|Perguntas de orientação: Qual é o problema que você está tentando resolver? / Como seus insights podem nortear as decisões de negócios?|
+|Principais tarefas: 1. Identificar a tarefa de negócios, 2. Considerar as principais partes interessadas|
 |Entrega: Uma declaração clara da tarefa de negócios|
 
 
@@ -57,8 +57,8 @@ Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de c
 
 |Roteiro do estudo de caso - Preparar|
 | --- |
-|Perguntas de orientação / Onde seus dados estão localizados? /* Como os dados são organizados?/  Existem problemas com viés ou credibilidade nesses dados? / Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte? / Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade? / Como você verificou a integridade dos dados / Como isso o ajuda a responder à sua pergunta? /  Há algum problema com os dados?|
-|Principais tarefas 1. Fazer o download dos dados e armazená-los adequadamente / 2. Identificar como estão organizados / 3. Classificar e filtrar os dados / 4. Determinar a credibilidade dos dados.|
+|Perguntas de orientação / Onde seus dados estão localizados? / Como os dados são organizados?/  Existem problemas com viés ou credibilidade nesses dados? / Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte? / Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade? / Como você verificou a integridade dos dados / Como isso o ajuda a responder à sua pergunta? /  Há algum problema com os dados?|
+|Principais tarefas 1. Fazer o download dos dados e armazená-los adequadamente,  2. Identificar como estão organizados, 3. Classificar e filtrar os dados, 4. Determinar a credibilidade dos dados.|
 |Entrega: Uma descrição de todas as fontes de dados usadas|
 
 ####  **Processar**
@@ -66,19 +66,9 @@ Em seguida, processe seus dados para análise usando o seguinte roteiro do estud
 
 |Roteiro do estudo de caso - Processar|
 | --- |
-|Perguntas de orientação
-* Quais ferramentas você está escolhendo e por quê?
-* Você garantiu a integridade dos seus dados?
-* Que medidas foram tomadas para garantir que seus dados estejam limpos?
-* Como você pode verificar se seus dados estão limpos e prontos para análise?
-* Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?|
+|Perguntas de orientação / Quais ferramentas você está escolhendo e por quê? / Você garantiu a integridade dos seus dados? / Que medidas foram tomadas para garantir que seus dados estejam limpos? / Como você pode verificar se seus dados estão limpos e prontos para análise? / Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?|
 
-|Principais tarefas
-    1. Verificar os dados em busca de erros.
-    2. Escolher suas ferramentas.
-    3. Transformar os dados para que você possa trabalhar com eles de forma eficaz.
-    4. Documentar o processo de limpeza.|
-
+|Principais tarefas: 1. Verificar os dados em busca de erros, 2. Escolher suas ferramentas, 3. Transformar os dados para que você possa trabalhar com eles de forma eficaz, 4. Documentar o processo de limpeza.|
 |Entrega: Documentação de qualquer limpeza ou manipulação de dados|
 
 
@@ -103,19 +93,8 @@ Agora que seus dados estão armazenados adequadamente e preparados para análise
 
 |Roteiro do estudo de caso - Analisar|
 | --- |
-|Perguntas de orientação
-* Como você deve organizar seus dados para realizar análises sobre eles?
-* Seus dados foram formatados corretamente?
-* Que surpresas você descobriu nos dados?
-* Que tendências ou relações você encontrou nos dados?
-* Como esses insights o ajudarão a responder às suas perguntas de negócios?|
-
-|Principais tarefas
-    1. Agregar seus dados para que sejam úteis e acessíveis.
-    2. Organizar e formatar seus dados.
-    3. Realizar cálculos.
-    4. Identificar tendências e relações.|
-
+|Perguntas de orientação: Como você deve organizar seus dados para realizar análises sobre eles? / Seus dados foram formatados corretamente? / Que surpresas você descobriu nos dados? / Que tendências ou relações você encontrou nos dados? / Como esses insights o ajudarão a responder às suas perguntas de negócios?|
+|Principais tarefas: 1. Agregar seus dados para que sejam úteis e acessíveis, 2. Organizar e formatar seus dados,  3. Realizar cálculos, 4. Identificar tendências e relações.|
 |Entrega: Um resumo da sua análise|
 
 
@@ -161,23 +140,11 @@ Agora que você realizou sua análise e obteve insights sobre seus dados, crie v
 
 |Roteiro do estudo de caso - Compartilhar|
 | --- |
-|Perguntas de orientação
-* Você conseguiu responder à pergunta de como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de maneira diferente?
-* Que história seus dados contam?
-* Como suas descobertas se relacionam com sua pergunta original?
-* Quem é seu público-alvo? Qual é a melhor maneira de se comunicar com esse público?
-* A visualização de dados pode ajudá-lo a compartilhar suas descobertas?
-* Sua apresentação é acessível ao seu público-alvo?|
-
-|Principais tarefas
-    1. Determinar a melhor maneira de compartilhar suas descobertas.
-    2. Criar visualizações de dados eficazes.
-    3. Apresentar suas descobertas.
-    4. Garantir que seu trabalho seja acessível.|
-
+|Perguntas de orientação: Você conseguiu responder à pergunta de como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de maneira diferente? / Que história seus dados contam? / Como suas descobertas se relacionam com sua pergunta original? / Quem é seu público-alvo? Qual é a melhor maneira de se comunicar com esse público? / A visualização de dados pode ajudá-lo a compartilhar suas descobertas? / Sua apresentação é acessível ao seu público-alvo?|
+|Principais tarefas: 1. Determinar a melhor maneira de compartilhar suas descobertas, 2. Criar visualizações de dados eficazes, 3. Apresentar suas descobertas, 4. Garantir que seu trabalho seja acessível.|
 |Entrega: Como justificar visualizações e descobertas-chave|
 
-Siga as etapas a seguir:
+**Siga as etapas a seguir:**
     1. Pegue um papel e uma caneta e esboce algumas ideias de como você visualizará os dados.
     2. Depois de escolher um formato visual, abra a ferramenta de sua preferência para criar sua visualização. Use um software de apresentação, como PowerPoint ou Google Slides; seu programa de planilha; Tableau; ou R.
     3. Crie sua visualização de dados, lembrando que o contraste deve ser usado para chamar a atenção do seu público-alvo para os insights mais importantes. Use princípios artísticos, incluindo tamanho, cor e formato.
@@ -190,17 +157,8 @@ Agora que terminou de criar suas visualizações, aja de acordo com suas descobe
 
 |Roteiro do estudo de caso - Agir|
 | --- |
-|Perguntas de orientação
-* Qual é a sua conclusão final com base na sua análise?
-* Como sua equipe e sua empresa podem aplicar seus insights?
-* Que próximos passos você ou suas partes interessadas podem seguir com base em suas descobertas?
-* Existem dados adicionais que você poderia usar para expandir suas descobertas?|
-
-|Principais tarefas
-    1. Criar seu portfólio.
-    2. Adicionar seu estudo de caso.
-    3. Praticar a apresentação do seu estudo de caso a um amigo ou membro da família.|
-
+|Perguntas de orientação: Qual é a sua conclusão final com base na sua análise? / Como sua equipe e sua empresa podem aplicar seus insights? / Que próximos passos você ou suas partes interessadas podem seguir com base em suas descobertas? / Existem dados adicionais que você poderia usar para expandir suas descobertas?|
+|Principais tarefas: 1. Criar seu portfólio, 2. Adicionar seu estudo de caso, 3. Praticar a apresentação do seu estudo de caso a um amigo ou membro da família.|
 |Entrega: Suas três principais recomendações com base em sua análise|
 
 **Siga as etapas a seguir:**
