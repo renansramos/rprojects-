@@ -2,16 +2,16 @@
 
 
 
-##### **Cenário**
+#### **Cenário**
 Você é um analista de dados júnior que trabalha na equipe de analistas de marketing da Cyclistic, uma empresa de compartilhamento de bicicletas em Chicago. O diretor de marketing acredita que o sucesso futuro da empresa depende da maximização do número de planos anuais contratados. Portanto, sua equipe quer entender como os ciclistas casuais e os membros anuais usam as bicicletas da Cyclistic de forma diferente. A partir desses insights, sua equipe criará uma nova estratégia de marketing para converter passageiros casuais em membros anuais. Mas, primeiro, os executivos da Cyclistic devem aprovar suas recomendações que, portanto, devem ser apoiadas com insights de dados convincentes e visualizações de dados profissionais.
 
-#####  **Personagens e equipes**
+####  **Personagens e equipes**
 • Cyclistic: Um programa de compartilhamento de bicicletas que conta com mais de 5.800 bicicletas e 600 estações de compartilhamento. A Cyclistic se diferencia por também oferecer bicicletas reclináveis, triciclos manuais e bicicletas de carga, tornando o compartilhamento de bicicletas mais inclusivo para pessoas com deficiência e ciclistas que não podem usar uma bicicleta padrão de duas rodas. A maioria dos ciclistas opta por bicicletas tradicionais; cerca de 8% dos motociclistas usam as opções assistivas. Os usuários da Cyclistic são mais propensos a pedalar por lazer, mas cerca de 30% utilizam as bicicletas para se deslocarem ao trabalho diariamente.
 • Lily Moreno: Diretora de marketing e sua gerente. Lily é responsável pelo desenvolvimento de campanhas e iniciativas de promoção do programa de compartilhamento de bicicletas. As campanhas podem incluir e-mail, mídias sociais e outros canais.
 • Equipe de análise de marketing da Cyclistic: Uma equipe de analistas de dados responsáveis por coletar, analisar e relatar dados que ajudam a orientar a estratégia de marketing da Cyclistic. Você se juntou a essa equipe há seis meses e tem estado ocupado aprendendo sobre a missão e os objetivos de negócios da Cyclistic – e como você, como analista de dados júnior, também pode ajudar a Cyclistic a alcançá-los.
 • Equipe executiva da Cyclistic: A equipe executiva notoriamente detalhista decidirá se aprova o programa de marketing recomendado.
 
-#####  **Sobre a empresa**
+####  **Sobre a empresa**
 Em 2016, a Cyclistic lançou uma oferta bem-sucedida de compartilhamento de bicicletas. Desde então, o programa cresceu para uma frota de 5.824 bicicletas com rastreamento geográfico e bloqueio dentro de uma rede de 692 estações em Chicago. As bicicletas podem ser desbloqueadas em uma estação e devolvidas em qualquer outra estação do sistema a qualquer momento.
 
 Até agora, a estratégia de marketing da Cyclistic baseava-se na conscientização geral e no apelo a amplos segmentos de consumidores. Uma abordagem que ajudou a tornar essas coisas possíveis foi a flexibilidade de seus planos de preços: passes de viagem única, passes de dia inteiro e planos anuais. Os clientes que adquirem passes de viagem única ou de dia inteiro são chamados de passageiros casuais. Os clientes que adquirem planos anuais são membros Cyclistic.
@@ -52,9 +52,10 @@ Principais tarefas
 
 Entrega
 Uma declaração clara da tarefa de negócios
----------------------------------------------------------------
 
-#####  **Preparar**
+
+####  **Preparar**
+---------------------------------------------------------------
 Você usará os dados históricos de trajetos da Cyclistic para analisar e identificar tendências. Faça o download dos dados de trajetos da Cyclistic dos últimos 12 meses  aqui. (Observação: os conjuntos de dados têm um nome diferente porque a Cyclistic é uma empresa fictícia. Para os propósitos deste estudo de caso, os conjuntos de dados são adequados e permitem que você responda às perguntas de negócios. Os dados foram disponibilizados pela Motivate International Inc. sob esta licença). Esses são dados públicos que podem ser usados para explorar como os diferentes tipos de clientes estão utilizando as bicicletas da Cyclistic. Entretanto, observe que problemas de privacidade de dados o proíbem de usar as informações de identificação pessoal dos passageiros. Ou seja, você não poderá conectar compras de passes a números de cartão de crédito para determinar se passageiros casuais moram na área de serviço da Cyclistic ou se compraram vários passes únicos.
 
 
@@ -80,7 +81,7 @@ Principais tarefas
 Entrega
 Uma descrição de todas as fontes de dados usadas
 
-#####  **Processar**
+####  **Processar**
 Em seguida, processe seus dados para análise usando o seguinte roteiro do estudo de caso como guia:
 
 Roteiro do estudo de caso - Processar
@@ -116,8 +117,9 @@ Siga as etapas a seguir:
 
 
 Se desejar, continue trabalhando com os dados para se familiarizar melhor e talvez até identificar novas abordagens para responder às perguntas de negócios.
+
+####  **Analisar**
 ---------------------------------------------------------------
-#####  **Analisar**
 Agora que seus dados estão armazenados adequadamente e preparados para análise, comece a colocá-los em prática. Use o Roteiro de estudo de caso a seguir como um guia:
 
 **Roteiro do estudo de caso - Analisar**
@@ -174,8 +176,9 @@ Abra o RStudio e use este script para concluir as etapas a seguir:
     3. Limpe e adicione dados para se preparar para a análise.
     4. Faça uma análise descritiva.
     5. Exporte um arquivo de resumo para análise posterior.
+
+####  **Compartilhar**
 ---------------------------------------------------------------
-#####  **Compartilhar**
 Agora que você realizou sua análise e obteve insights sobre seus dados, crie visualizações para compartilhar suas descobertas. Lily lembrou que eles devem ser sofisticados e polidos para se comunicar com eficiência com a equipe executiva. Use o Roteiro de estudo de caso a seguir como um guia:
 
 Roteiro do estudo de caso - Compartilhar
@@ -203,8 +206,9 @@ Siga as etapas a seguir:
     3. Crie sua visualização de dados, lembrando que o contraste deve ser usado para chamar a atenção do seu público-alvo para os insights mais importantes. Use princípios artísticos, incluindo tamanho, cor e formato.
     4. Garanta um significado claro por meio do uso adequado de elementos comuns, como títulos, subtítulos e rótulos.
     5. Filtre sua visualização de dados aplicando grande atenção aos detalhes.
+
+####  **Agir**
 ---------------------------------------------------------------
-#####  **Agir**
 Agora que terminou de criar suas visualizações, aja de acordo com suas descobertas. Prepare as entregas que a Lily pediu para você criar, incluindo as três principais recomendações com base em sua análise. Use o Roteiro de estudo de caso a seguir como um guia:
 
 Roteiro do estudo de caso - Agir
