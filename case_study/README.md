@@ -57,19 +57,8 @@ Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de c
 
 |Roteiro do estudo de caso - Preparar|
 | --- |
-|Perguntas de orientação
-* Onde seus dados estão localizados?
-* Como os dados são organizados?
-* Existem problemas com viés ou credibilidade nesses dados? Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte?
-* Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade?
-* Como você verificou a integridade dos dados?
-* Como isso o ajuda a responder à sua pergunta?
-* Há algum problema com os dados?|
-|Principais tarefas
-    1. Fazer o download dos dados e armazená-los adequadamente.
-    2. Identificar como estão organizados.
-    3. Classificar e filtrar os dados.
-    4. Determinar a credibilidade dos dados.|
+|Perguntas de orientação / Onde seus dados estão localizados? /* Como os dados são organizados?/  Existem problemas com viés ou credibilidade nesses dados? / Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte? / Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade? / Como você verificou a integridade dos dados / Como isso o ajuda a responder à sua pergunta? /  Há algum problema com os dados?|
+|Principais tarefas 1. Fazer o download dos dados e armazená-los adequadamente / 2. Identificar como estão organizados / 3. Classificar e filtrar os dados / 4. Determinar a credibilidade dos dados.|
 |Entrega: Uma descrição de todas as fontes de dados usadas|
 
 ####  **Processar**
