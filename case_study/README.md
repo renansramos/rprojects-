@@ -43,8 +43,8 @@ Use o Roteiro de estudo de caso a seguir como um guia. Observação: Concluir es
 
 |Roteiro do estudo de caso - Perguntar|
 | --- |
-|Perguntas de orientação * Qual é o problema que você está tentando resolver? * Como seus insights podem nortear as decisões de negócios?|
-|Principais tarefas 1. Identificar a tarefa de negócios 2. Considerar as principais partes interessadas|
+|Perguntas de orientação: Qual é o problema que você está tentando resolver?  Como seus insights podem nortear as decisões de negócios?|
+|Principais tarefas: 1. Identificar a tarefa de negócios 2. Considerar as principais partes interessadas|
 |Entrega: Uma declaração clara da tarefa de negócios|
 
 
@@ -55,46 +55,45 @@ Você usará os dados históricos de trajetos da Cyclistic para analisar e ident
 
 Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de caso como guia:
 
-Roteiro do estudo de caso - Preparar
+|Roteiro do estudo de caso - Preparar|
+| --- |
 
-Perguntas de orientação
+|Perguntas de orientação
 * Onde seus dados estão localizados?
 * Como os dados são organizados?
 * Existem problemas com viés ou credibilidade nesses dados? Seus dados são confiáveis, originais, abrangentes, atuais e incluem a fonte?
 * Como você está lidando com o licenciamento, a privacidade, a segurança e a acessibilidade?
 * Como você verificou a integridade dos dados?
 * Como isso o ajuda a responder à sua pergunta?
-* Há algum problema com os dados?
+* Há algum problema com os dados?|
 
-Principais tarefas
+|Principais tarefas
     1. Fazer o download dos dados e armazená-los adequadamente.
     2. Identificar como estão organizados.
     3. Classificar e filtrar os dados.
-    4. Determinar a credibilidade dos dados.
+    4. Determinar a credibilidade dos dados.|
 
-Entrega
-Uma descrição de todas as fontes de dados usadas
+|Entrega: Uma descrição de todas as fontes de dados usadas|
 
 ####  **Processar**
 Em seguida, processe seus dados para análise usando o seguinte roteiro do estudo de caso como guia:
 
-Roteiro do estudo de caso - Processar
-
-Perguntas de orientação
+|Roteiro do estudo de caso - Processar|
+| --- |
+|Perguntas de orientação
 * Quais ferramentas você está escolhendo e por quê?
 * Você garantiu a integridade dos seus dados?
 * Que medidas foram tomadas para garantir que seus dados estejam limpos?
 * Como você pode verificar se seus dados estão limpos e prontos para análise?
-* Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?
+* Você documentou seu processo de limpeza para poder revisar e compartilhar esses resultados?|
 
-Principais tarefas
+|Principais tarefas
     1. Verificar os dados em busca de erros.
     2. Escolher suas ferramentas.
     3. Transformar os dados para que você possa trabalhar com eles de forma eficaz.
-    4. Documentar o processo de limpeza.
+    4. Documentar o processo de limpeza.|
 
-Entrega
-Documentação de qualquer limpeza ou manipulação de dados
+|Entrega: Documentação de qualquer limpeza ou manipulação de dados|
 
 
 Siga as etapas a seguir:
@@ -116,23 +115,22 @@ Se desejar, continue trabalhando com os dados para se familiarizar melhor e talv
 ---------------------------------------------------------------
 Agora que seus dados estão armazenados adequadamente e preparados para análise, comece a colocá-los em prática. Use o Roteiro de estudo de caso a seguir como um guia:
 
-**Roteiro do estudo de caso - Analisar**
-
-Perguntas de orientação
+|Roteiro do estudo de caso - Analisar|
+| --- |
+|Perguntas de orientação
 * Como você deve organizar seus dados para realizar análises sobre eles?
 * Seus dados foram formatados corretamente?
 * Que surpresas você descobriu nos dados?
 * Que tendências ou relações você encontrou nos dados?
-* Como esses insights o ajudarão a responder às suas perguntas de negócios?
+* Como esses insights o ajudarão a responder às suas perguntas de negócios?|
 
-Principais tarefas
+|Principais tarefas
     1. Agregar seus dados para que sejam úteis e acessíveis.
     2. Organizar e formatar seus dados.
     3. Realizar cálculos.
-    4. Identificar tendências e relações.
+    4. Identificar tendências e relações.|
 
-Entrega
-Um resumo da sua análise
+|Entrega: Um resumo da sua análise|
 
 
 Siga estas etapas se usar planilhas
@@ -175,24 +173,23 @@ Abra o RStudio e use este script para concluir as etapas a seguir:
 ---------------------------------------------------------------
 Agora que você realizou sua análise e obteve insights sobre seus dados, crie visualizações para compartilhar suas descobertas. Lily lembrou que eles devem ser sofisticados e polidos para se comunicar com eficiência com a equipe executiva. Use o Roteiro de estudo de caso a seguir como um guia:
 
-Roteiro do estudo de caso - Compartilhar
-
-Perguntas de orientação
+|Roteiro do estudo de caso - Compartilhar|
+| --- |
+|Perguntas de orientação
 * Você conseguiu responder à pergunta de como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de maneira diferente?
 * Que história seus dados contam?
 * Como suas descobertas se relacionam com sua pergunta original?
 * Quem é seu público-alvo? Qual é a melhor maneira de se comunicar com esse público?
 * A visualização de dados pode ajudá-lo a compartilhar suas descobertas?
-* Sua apresentação é acessível ao seu público-alvo?
+* Sua apresentação é acessível ao seu público-alvo?|
 
-Principais tarefas
+|Principais tarefas
     1. Determinar a melhor maneira de compartilhar suas descobertas.
     2. Criar visualizações de dados eficazes.
     3. Apresentar suas descobertas.
-    4. Garantir que seu trabalho seja acessível.
+    4. Garantir que seu trabalho seja acessível.|
 
-Entrega
-Como justificar visualizações e descobertas-chave
+|Entrega: Como justificar visualizações e descobertas-chave|
 
 Siga as etapas a seguir:
     1. Pegue um papel e uma caneta e esboce algumas ideias de como você visualizará os dados.
@@ -205,21 +202,20 @@ Siga as etapas a seguir:
 ---------------------------------------------------------------
 Agora que terminou de criar suas visualizações, aja de acordo com suas descobertas. Prepare as entregas que a Lily pediu para você criar, incluindo as três principais recomendações com base em sua análise. Use o Roteiro de estudo de caso a seguir como um guia:
 
-Roteiro do estudo de caso - Agir
-
-Perguntas de orientação
+|Roteiro do estudo de caso - Agir|
+| --- |
+|Perguntas de orientação
 * Qual é a sua conclusão final com base na sua análise?
 * Como sua equipe e sua empresa podem aplicar seus insights?
 * Que próximos passos você ou suas partes interessadas podem seguir com base em suas descobertas?
-* Existem dados adicionais que você poderia usar para expandir suas descobertas?
+* Existem dados adicionais que você poderia usar para expandir suas descobertas?|
 
-Principais tarefas
+|Principais tarefas
     1. Criar seu portfólio.
     2. Adicionar seu estudo de caso.
-    3. Praticar a apresentação do seu estudo de caso a um amigo ou membro da família.
+    3. Praticar a apresentação do seu estudo de caso a um amigo ou membro da família.|
 
-Entrega
-Suas três principais recomendações com base em sua análise
+|Entrega: Suas três principais recomendações com base em sua análise|
 
 **Siga as etapas a seguir:**
     1. Se ainda não tem um, crie um portfólio online. (Use Como criar um portfólio interativo com o Google Sites ou Como desenvolver um portfólio com o Google Sites.)
