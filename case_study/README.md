@@ -20,6 +20,7 @@ Os analistas financeiros da Cyclistic concluíram que os membros anuais são mui
 
 
 **Perguntar**
+---------------------------------------------------------------
 Três perguntas nortearão o futuro programa de marketing:
     1. Como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de forma diferente?
     2. Por que os passageiros casuais iriam querer adquirir planos anuais da Cyclistic?
