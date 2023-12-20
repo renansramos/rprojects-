@@ -62,6 +62,7 @@ Agora, prepare seus dados para análise usando o seguinte roteiro do estudo de c
 |Entrega: Uma descrição de todas as fontes de dados usadas|
 
 **Processar**
+---------------------------------------------------------------
 Em seguida, processe seus dados para análise usando o seguinte roteiro do estudo de caso como guia:
 
 |Roteiro do estudo de caso - Processar|
