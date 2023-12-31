@@ -42,7 +42,7 @@ em conformidade com os objetivos estabelecidos para o projeto.
 
 ### Documentação de qualquer limpeza ou manipulação de dados:
 #### Dados limpos no excel: 
-![IMG1](case_study/case_1/img/Imagem_1.png)
+![IMG1](rprojects-/case_study/case_1/img/Imagem_1.png)
 
 #### Total de usuários:
 ![IMG2](case_study/case_1/img/Imagem_2.png)
