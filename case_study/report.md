@@ -1,6 +1,6 @@
 ## Análise de dados para otimização das estratégias de marketing
 
-## *Objetivo:* Criar estratégias de marketing destinadas a converter passageiros casuais em membros anuais
+### *Objetivo:* Criar estratégias de marketing destinadas a converter passageiros casuais em membros anuais
 
 1- Como os membros anuais e os ciclistas casuais usam as bicicletas da Cyclistic de forma diferente?
 -	*Frequência de uso:*
@@ -31,7 +31,7 @@ descontos especiais, acesso prioritário a bicicletas ou serviços premium. Inst
 otimizar sua experiência ao se tornarem membros não apenas aumentará a adesão, mas também fortalecerá a relação 
 entre os passageiros e a marca Cyclistic.
 
-## Tarefa de negócios:
+### Tarefa de negócios:
 
 *Fonte de dados utilizadas:*
 No presente relatório, empregou-se o conjunto de dados correspondente aos últimos 12 meses, abrangendo o período 
@@ -40,20 +40,20 @@ gentilmente providenciado pela organização Cyclistic. Esses dados foram submet
 organização meticulosos, visando à obtenção de uma estrutura clara que permitisse a extração de insights relevantes 
 em conformidade com os objetivos estabelecidos para o projeto.
 
-## Documentação de qualquer limpeza ou manipulação de dados:
-### Dados limpos no excel: 
+### Documentação de qualquer limpeza ou manipulação de dados:
+#### Dados limpos no excel: 
 ![IMG1](case_study/case_1/img/Imagem_1.png)
 
-### Total de usuários:
+#### Total de usuários:
 ![IMG2](case_study/case_1/img/Imagem_2.png)
 
-### Dados isolados para gerar o gráfico de membros casuais:
+#### Dados isolados para gerar o gráfico de membros casuais:
 ![IMG3](case_study/case_1/img/Imagem_3.png)
 
-### Gráfico de barras estações com mais sáidas de usuários casuais:
+#### Gráfico de barras estações com mais sáidas de usuários casuais:
 ![PLOT](case_study/case_1/img/plot_1.png)
 
-## Resumo da Análise:
+### Resumo da Análise:
 Ao analisar o conjunto de dados disponibilizados, as primeiras ações a tomar foram:
 1.	Definir o problema: entender o que está sendo investigado e por que é importante. 
 Isso pode ser feito fazendo perguntas como:
@@ -77,7 +77,7 @@ padrões e tendências e logo após criar gráficos e tabelas.
     - Formular hipóteses
     - Fazer recomendações
 
-## Insights:
+### Insights:
 Ao analisar os dados fornecidos, foi observado que os usuários casuais representavam a maioria dos clientes da empresa Cyclistic.
 Para identificar as regiões com maior potencial para as estratégias de visibilidade de marketing, foram selecionadas as 15 estações com o maior número de saídas de usuários casuais.
 Essa seleção foi feita com base no número de clientes que utilizaram os serviços como “Casual” em cada estação, considerando o período de um ano.
