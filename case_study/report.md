@@ -51,7 +51,7 @@ em conformidade com os objetivos estabelecidos para o projeto.
 ![IMG3](case_study/case_1/img/Imagem_3.png)
 
 #### Gráfico de barras estações com mais sáidas de usuários casuais:
-![PLOT](case_study/case_1/img/plot_1.png)
+![PLOT]([case_study/case_1/img/plot_1.png](https://github.com/renansramos/rprojects-/blob/main/case_study/case_1/img/plot_1.png))
 
 ### Resumo da Análise:
 Ao analisar o conjunto de dados disponibilizados, as primeiras ações a tomar foram:
